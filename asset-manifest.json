@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/myreact/static/css/main.d1b05096.chunk.css",
-    "main.js": "/myreact/static/js/main.d682731c.chunk.js",
-    "main.js.map": "/myreact/static/js/main.d682731c.chunk.js.map",
-    "runtime-main.js": "/myreact/static/js/runtime-main.2c929bdb.js",
-    "runtime-main.js.map": "/myreact/static/js/runtime-main.2c929bdb.js.map",
-    "static/js/2.720e45b1.chunk.js": "/myreact/static/js/2.720e45b1.chunk.js",
-    "static/js/2.720e45b1.chunk.js.map": "/myreact/static/js/2.720e45b1.chunk.js.map",
-    "index.html": "/myreact/index.html",
-    "precache-manifest.6c3e37c132599b41d5e343244464fa04.js": "/myreact/precache-manifest.6c3e37c132599b41d5e343244464fa04.js",
-    "service-worker.js": "/myreact/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/myreact/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.720e45b1.chunk.js.LICENSE.txt": "/myreact/static/js/2.720e45b1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/myreact/static/media/logo.5d5d9eef.svg"
+    "main.css": "/poc-github-pages-with-react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/poc-github-pages-with-react/static/js/main.6fedba3e.chunk.js",
+    "main.js.map": "/poc-github-pages-with-react/static/js/main.6fedba3e.chunk.js.map",
+    "runtime-main.js": "/poc-github-pages-with-react/static/js/runtime-main.4bb6adc6.js",
+    "runtime-main.js.map": "/poc-github-pages-with-react/static/js/runtime-main.4bb6adc6.js.map",
+    "static/js/2.720e45b1.chunk.js": "/poc-github-pages-with-react/static/js/2.720e45b1.chunk.js",
+    "static/js/2.720e45b1.chunk.js.map": "/poc-github-pages-with-react/static/js/2.720e45b1.chunk.js.map",
+    "index.html": "/poc-github-pages-with-react/index.html",
+    "precache-manifest.824fa90fbc4f48573bd3d4709f46a128.js": "/poc-github-pages-with-react/precache-manifest.824fa90fbc4f48573bd3d4709f46a128.js",
+    "service-worker.js": "/poc-github-pages-with-react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/poc-github-pages-with-react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.720e45b1.chunk.js.LICENSE.txt": "/poc-github-pages-with-react/static/js/2.720e45b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/poc-github-pages-with-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c929bdb.js",
+    "static/js/runtime-main.4bb6adc6.js",
     "static/js/2.720e45b1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d682731c.chunk.js"
+    "static/js/main.6fedba3e.chunk.js"
   ]
 }
